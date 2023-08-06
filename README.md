@@ -2,31 +2,30 @@
 # Ahmed Abouemaira
 
 👨‍💻 Backend Developer | Software Engineer
-
 📍 Port Said, Egypt
 
 ## About Me
 I'm a Backend Developer with experience in PHP, Golang, and Java. My focus is on building scalable and innovative solutions.
 
 ## Tech Stack
-- Languages: 
+- Languages:
   ![PHP](https://img.shields.io/badge/-PHP-blue?logo=php&logoColor=white)
   ![Golang](https://img.shields.io/badge/-Golang-blue?logo=go&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
-  
-- Databases: 
+
+- Databases:
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
-  
-- Frameworks: 
+
+- Frameworks:
   ![Laravel](https://img.shields.io/badge/-Laravel-blue?logo=laravel&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue?logo=spring-boot&logoColor=white)
-  
-- Tools: 
+
+- Tools:
   ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-blue?logo=linux&logoColor=white)
-  
-- Web: 
+
+- Web:
   ![HTML5](https://img.shields.io/badge/-HTML5-blue?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?logo=bootstrap&logoColor=white)
@@ -44,4 +43,4 @@ I'm a Backend Developer with experience in PHP, Golang, and Java. My focus is on
 ## Let's Connect
 📧 Email: a.aboemira1@gmail.com
 📞 Phone: +20 1091561834
-💼 LinkedIn: linkedin.com/in/ahmed-abouemaira
+💼 LinkedIn: [linkedin.com/in/ahmed-abouemaira](https://linkedin.com/in/ahmed-abouemaira)
