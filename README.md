@@ -43,4 +43,4 @@ I'm a Backend Developer with experience in PHP, Golang, and Java. My focus is on
 ## Let's Connect
 📧 Email: a.aboemira1@gmail.com
 📞 Phone: +20 1091561834
-💼 LinkedIn: [linkedin.com/in/ahmed-abouemaira](https://linkedin.com/in/ahmed-abouemaira)
+💼 LinkedIn: [linkedin](https://linkedin.com/in/ahmed-abouemira-2626b3144)
