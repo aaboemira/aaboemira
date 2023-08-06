@@ -4,9 +4,6 @@
 👨‍💻 Backend Developer | Software Engineer
 
 📍 Port Said, Egypt
-📧 a.aboemira1@gmail.com
-📞 +20 1091561834
-🐙 GitHub: github.com/your-github-username
 
 ## About Me
 I'm a Backend Developer with experience in PHP, Golang, and Java. My focus is on building scalable and innovative solutions.
