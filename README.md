@@ -23,7 +23,7 @@ I'm a Backend Developer from Egypt, with a strong foundation in PHP, Golang, and
 
 
 # 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aaboemirae&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aaboemira&show_icons=true&theme=radical)
 
 # 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=aaboemira&theme=nord)
