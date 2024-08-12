@@ -21,15 +21,12 @@
 # 🚀 About Me:
 I'm a Backend Developer from Egypt, with a strong foundation in PHP, Golang, and Java. I specialize in creating scalable and secure backend systems, contributing to both freelance projects and larger organizational initiatives. Whether you're looking for someone to manage your backend infrastructure or need a full-stack developer for your web application, I am here to help.
 
-# 📚 Latest Blog Posts
-- [Building Modern Web Applications with Go](Your-Blog-Link)
-- [Introduction to Laravel for Beginners](Your-Blog-Link)
 
 # 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aaboemirae&show_icons=true&theme=radical)
 
 # 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=nord)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aaboemira&theme=nord)
 
 # 📌 Pinned Repositories:
 ## [NODEMATIC Store](Repository-URL)
