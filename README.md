@@ -1,46 +1,50 @@
-### Hi there 👋
-# Ahmed Abouemaira
+# Hi there, I'm Ahmed Abouemira 👋
 
-👨‍💻 Backend Developer | Software Engineer
-📍 Port Said, Egypt
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](your-github-url)
 
-## About Me
-I'm a Backend Developer with experience in PHP, Golang, and Java. My focus is on building scalable and innovative solutions.
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-## Tech Stack
-- Languages:
-  ![PHP](https://img.shields.io/badge/-PHP-blue?logo=php&logoColor=white)
-  ![Golang](https://img.shields.io/badge/-Golang-blue?logo=go&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
+# 🚀 About Me:
+I'm a Backend Developer from Egypt, with a strong foundation in PHP, Golang, and Java. I specialize in creating scalable and secure backend systems, contributing to both freelance projects and larger organizational initiatives. Whether you're looking for someone to manage your backend infrastructure or need a full-stack developer for your web application, I am here to help.
 
-- Databases:
-  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
+# 📚 Latest Blog Posts
+- [Building Modern Web Applications with Go](Your-Blog-Link)
+- [Introduction to Laravel for Beginners](Your-Blog-Link)
 
-- Frameworks:
-  ![Laravel](https://img.shields.io/badge/-Laravel-blue?logo=laravel&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue?logo=spring-boot&logoColor=white)
+# 📈 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- Tools:
-  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-blue?logo=linux&logoColor=white)
+# 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=nord)
 
-- Web:
-  ![HTML5](https://img.shields.io/badge/-HTML5-blue?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?logo=bootstrap&logoColor=white)
+# 📌 Pinned Repositories:
+## [NODEMATIC Store](Repository-URL)
+An e-commerce platform specializing in roller shutter solutions, with advanced 3D printing technology and electronics. Includes user management, order processing, and integration with Google Assistant for smart device control.
 
-## Project Experience
-- **Taxi CRM Solution**
-  - Developed a comprehensive solution for taxi companies to streamline operations, manage fleet, bookings, payments, and generate detailed reports.
+## [Taxi CRM](Repository-URL)
+A comprehensive solution for taxi companies, managing fleet, bookings, payments, and generating detailed reports.
 
-- **Global Electric Vehicle Challenge (GEVC) Website**
-  - Developed the official website for the Global Electric Vehicle Challenge (GEVC), providing information about the competition and showcasing participants' achievements.
+## [Almuasaa CMS](Repository-URL)
+A content management system tailored for managing daily content such as Quranic texts, Hadiths, and articles.
 
-- **Almuasaa CMS**
-  - Created a content management system tailored for a Sheikh's website, allowing easy management of daily content, Quranic texts, Hadiths, fatwas, books, and articles.
 
-## Let's Connect
-📧 Email: a.aboemira1@gmail.com
-📞 Phone: +20 1091561834
-💼 LinkedIn: [linkedin](https://linkedin.com/in/ahmed-abouemira-2626b3144)
+## 📜 Favorite Quote:
+> "Truth can only be found in one place: the code." - Alan Perlis
+
+## 📬 Contact Me:
+- You can email me at [a.aboemira1@gmail.com](mailto:a.aboemira1@gmail.com)
+- Find all of my socials and professional profiles [here]([Link-to-Your-Profile](https://www.linkedin.com/in/ahmed-abouemira))
